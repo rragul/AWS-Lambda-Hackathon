@@ -23,7 +23,6 @@ This project provides a robust, scalable, and cost-effective serverless backend 
     * [Deployment Steps](#deployment-steps)
     * [Testing the API Endpoints](#testing-the-api-endpoints)
 7.  [Future Enhancements](#7-future-enhancements)
-8.  [Team Members](#8-team-members)
 
 ---
 
