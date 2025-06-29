@@ -245,3 +245,6 @@ Once deployed, you can test your API endpoints using `curl`, Postman, Insomnia, 
 * **Admin Dashboard:** Create a separate frontend for game administrators to manage leaderboards or ban users.
 * **Game State Validation:** Implement server-side validation of submitted scores against expected game states to prevent cheating.
 * **WebSockets for Live Updates:** Use AWS IoT Core or API Gateway WebSockets to push live leaderboard updates to connected clients.
+
+## Medium: 
+https://r-ragul.medium.com/aws-lambda-hackathon-my-serverless-leaderboard-project-266e015702f1
